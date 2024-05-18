@@ -23,3 +23,7 @@ You can find me on:
 
 - **LinkedIn**: [linkedin.com/in/benjamin-yankey-570b7a158](linkedin.com/in/benjamin-yankey-570b7a158) 🔗
 - **Twitter**: [@benkeySoft](https://twitter.com/benkeySoft) 🔗
+
+## You are visitor number
+![Visitor Count](https://profile-counter.glitch.me/{benkeyben}/count.svg)
+
